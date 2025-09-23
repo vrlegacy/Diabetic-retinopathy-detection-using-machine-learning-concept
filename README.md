@@ -1,3 +1,3 @@
-Project in preliminary stages 
-working in machine learning 
+Project in preliminary stages .
+working on machine learning .
 updates soon....
